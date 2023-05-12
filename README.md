@@ -1,1 +1,1 @@
-# Newsapp
+This app is a news application. This application will show the news about the world. This is better than old conventional newspapers as you can see news anytime and anywhere now. This will also have live updates. This app will have some other features like adding your own news as an editor and people can see your published news too.
